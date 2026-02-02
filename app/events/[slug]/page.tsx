@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getAllEvents, getEventBySlug } from '@/lib/events';
 import Countdown from '@/components/countdown';
+import EventImage from '@/components/event-image';
 import type { Metadata } from 'next';
 
 interface PageProps {
@@ -128,6 +129,11 @@ export default async function EventPage({ params }: PageProps) {
               {event.description}
             </p>
           </div>
+
+          {/* Event Image */}
+          {event.image && (
+            <EventImage src={event.image} alt={event.title} priority />
+          )}
 
           {/* Countdown Timer */}
           <div className="max-w-4xl mx-auto mb-12">
