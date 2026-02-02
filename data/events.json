@@ -1,0 +1,112 @@
+[
+  {
+    "id": "end-of-trump-2029",
+    "slug": "end-of-trump-2029",
+    "title": "End of Trump Presidency 2029",
+    "description": "Countdown to the end of Donald Trump's presidency on January 20th, 2029.",
+    "startsAtUtc": "2029-01-20T12:00:00Z",
+    "category": "politics",
+    "tags": ["politics", "usa", "presidency"],
+    "image": "/images/trump-presidency.jpg"
+  },
+  {
+  "id": "new-year-2027",
+  "slug": "new-year-2027",
+  "title": "New Year 2027",
+  "description": "Countdown to midnight on January 1st, 2027. Ring in the new year!",
+  "startsAtUtc": "2027-01-01T00:00:00Z",
+  "category": "holiday",
+  "tags": ["celebration", "holiday", "new-year"],
+  "image": "/images/new-year.jpg"
+},
+  {
+    "id": "eclipse-2026",
+    "slug": "solar-eclipse-2026",
+    "title": "Solar Eclipse 2026",
+    "description": "Countdown to the 2026 solar eclipse visible across Europe and Asia.",
+    "startsAtUtc": "2026-08-12T15:30:00Z",
+    "category": "astronomy",
+    "tags": ["space", "eclipse", "astronomy"],
+    "image": "/images/solar-eclipse.jpg"
+  },
+  {
+    "id": "christmas-2026",
+    "slug": "christmas-2026",
+    "title": "Christmas 2026",
+    "description": "Countdown to Christmas Day 2026. How many days until Christmas?",
+    "startsAtUtc": "2026-12-25T00:00:00Z",
+    "category": "holiday",
+    "tags": ["christmas", "holiday", "celebration"],
+    "image": "/images/christmas.jpg"
+  },
+  {
+    "id": "earth-day-2026",
+    "slug": "earth-day-2026",
+    "title": "Earth Day 2026",
+    "description": "Countdown to Earth Day 2026, celebrating our planet and environmental awareness.",
+    "startsAtUtc": "2026-04-22T00:00:00Z",
+    "category": "environment",
+    "tags": ["environment", "awareness", "planet"],
+    "image": "/images/earth-day.jpg"
+  },
+  {
+    "id": "halloween-2026",
+    "slug": "halloween-2026",
+    "title": "Halloween 2026",
+    "description": "Countdown to Halloween 2026. Time to prepare your costume!",
+    "startsAtUtc": "2026-10-31T00:00:00Z",
+    "category": "holiday",
+    "tags": ["halloween", "holiday", "spooky"],
+    "image": "/images/halloween.jpg"
+  },
+  {
+    "id": "valentines-2026",
+    "slug": "valentines-day-2026",
+    "title": "Valentine's Day 2026",
+    "description": "Countdown to Valentine's Day 2026. The day of love and romance.",
+    "startsAtUtc": "2026-02-14T00:00:00Z",
+    "category": "holiday",
+    "tags": ["valentines", "love", "holiday"],
+    "image": "/images/valentines.jpg"
+  },
+  {
+    "id": "summer-solstice-2026",
+    "slug": "summer-solstice-2026",
+    "title": "Summer Solstice 2026",
+    "description": "Countdown to the longest day of the year in the Northern Hemisphere.",
+    "startsAtUtc": "2026-06-21T06:00:00Z",
+    "category": "astronomy",
+    "tags": ["solstice", "summer", "astronomy"],
+    "image": "/images/summer-solstice.jpg"
+  },
+  {
+    "id": "thanksgiving-2026",
+    "slug": "thanksgiving-2026",
+    "title": "Thanksgiving 2026",
+    "description": "Countdown to Thanksgiving Day 2026 in the United States.",
+    "startsAtUtc": "2026-11-26T00:00:00Z",
+    "category": "holiday",
+    "tags": ["thanksgiving", "holiday", "family"],
+    "image": "/images/thanksgiving.jpg"
+  },
+  {
+    "id": "independence-day-2026",
+    "slug": "independence-day-2026",
+    "title": "Independence Day 2026",
+    "description": "Countdown to July 4th, 2026. Celebrate American independence with fireworks!",
+    "startsAtUtc": "2026-07-04T00:00:00Z",
+    "category": "holiday",
+    "tags": ["independence", "usa", "holiday"],
+    "image": "/images/independence-day.jpg"
+  },
+  {
+    "id": "pi-day-2026",
+    "slug": "pi-day-2026",
+    "title": "Pi Day 2026",
+    "description": "Countdown to Pi Day 2026 (3/14). Celebrate mathematics and eat pie!",
+    "startsAtUtc": "2026-03-14T00:00:00Z",
+    "category": "science",
+    "tags": ["math", "science", "pi"],
+    "image": "/images/pi-day.jpg"
+  }
+]
