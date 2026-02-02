@@ -9,6 +9,7 @@ export interface Event {
   category: string;
   tags: string[];
   image: string;
+  imageCredit?: string;
 }
 
 export function getAllEvents(): Event[] {

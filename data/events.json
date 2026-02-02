@@ -7,7 +7,8 @@
     "startsAtUtc": "2029-01-20T12:00:00Z",
     "category": "politics",
     "tags": ["politics", "usa", "presidency"],
-    "image": "/images/trump-presidency.jpg"
+    "image": "/images/trump-presidency.jpg",
+    "imageCredit": "Image by <a href=\"https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2546104\">Gerd Altmann</a> from <a href=\"https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2546104\" target=\"_blank\" rel=\"noopener noreferrer\">Pixabay</a>"
   },
   {
   "id": "new-year-2027",

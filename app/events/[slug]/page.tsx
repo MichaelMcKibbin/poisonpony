@@ -132,7 +132,12 @@ export default async function EventPage({ params }: PageProps) {
 
           {/* Event Image */}
           {event.image && (
-            <EventImage src={event.image} alt={event.title} priority />
+            <EventImage
+              src={event.image}
+              alt={event.title}
+              credit={event.imageCredit}
+              priority
+            />
           )}
 
           {/* Countdown Timer */}
