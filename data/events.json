@@ -109,5 +109,155 @@
     "category": "science",
     "tags": ["math", "science", "pi"],
     "image": "/images/pi-day.jpg"
+  },
+  {
+    "id": "st-patricks-day-2026",
+    "slug": "st-patricks-day-2026",
+    "title": "St. Patrick's Day 2026",
+    "description": "Countdown to St. Patrick's Day 2026. Wear green and celebrate Irish culture!",
+    "startsAtUtc": "2026-03-17T00:00:00Z",
+    "category": "holiday",
+    "tags": ["st-patricks", "holiday", "irish"],
+    "image": "/images/st-patricks.jpg"
+  },
+  {
+    "id": "april-fools-2026",
+    "slug": "april-fools-2026",
+    "title": "April Fools' Day 2026",
+    "description": "Countdown to April Fools' Day 2026. Time to plan your pranks!",
+    "startsAtUtc": "2026-04-01T00:00:00Z",
+    "category": "holiday",
+    "tags": ["april-fools", "pranks", "fun"],
+    "image": "/images/april-fools.jpg"
+  },
+  {
+    "id": "cinco-de-mayo-2026",
+    "slug": "cinco-de-mayo-2026",
+    "title": "Cinco de Mayo 2026",
+    "description": "Countdown to Cinco de Mayo 2026. Celebrate Mexican culture and heritage!",
+    "startsAtUtc": "2026-05-05T00:00:00Z",
+    "category": "holiday",
+    "tags": ["cinco-de-mayo", "holiday", "mexican"],
+    "image": "/images/cinco-de-mayo.jpg"
+  },
+  {
+    "id": "star-wars-day-2026",
+    "slug": "star-wars-day-2026",
+    "title": "Star Wars Day 2026",
+    "description": "Countdown to Star Wars Day 2026. May the 4th be with you!",
+    "startsAtUtc": "2026-05-04T00:00:00Z",
+    "category": "pop-culture",
+    "tags": ["star-wars", "movies", "pop-culture"],
+    "image": "/images/star-wars-day.jpg"
+  },
+  {
+    "id": "world-ocean-day-2026",
+    "slug": "world-ocean-day-2026",
+    "title": "World Ocean Day 2026",
+    "description": "Countdown to World Ocean Day 2026. Celebrate and protect our oceans!",
+    "startsAtUtc": "2026-06-08T00:00:00Z",
+    "category": "environment",
+    "tags": ["ocean", "environment", "conservation"],
+    "image": "/images/ocean-day.jpg"
+  },
+  {
+    "id": "groundhog-day-2026",
+    "slug": "groundhog-day-2026",
+    "title": "Groundhog Day 2026",
+    "description": "Countdown to Groundhog Day 2026. Will Punxsutawney Phil see his shadow?",
+    "startsAtUtc": "2026-02-02T00:00:00Z",
+    "category": "holiday",
+    "tags": ["groundhog", "tradition", "weather"],
+    "image": "/images/groundhog-day.jpg"
+  },
+  {
+    "id": "international-womens-day-2026",
+    "slug": "international-womens-day-2026",
+    "title": "International Women's Day 2026",
+    "description": "Countdown to International Women's Day 2026. Celebrating women's achievements worldwide.",
+    "startsAtUtc": "2026-03-08T00:00:00Z",
+    "category": "awareness",
+    "tags": ["womens-day", "equality", "awareness"],
+    "image": "/images/womens-day.jpg"
+  },
+  {
+    "id": "may-day-2026",
+    "slug": "may-day-2026",
+    "title": "May Day 2026",
+    "description": "Countdown to May Day 2026. International Workers' Day celebration.",
+    "startsAtUtc": "2026-05-01T00:00:00Z",
+    "category": "holiday",
+    "tags": ["may-day", "workers", "international"],
+    "image": "/images/may-day.jpg"
+  },
+  {
+    "id": "summer-olympics-2028",
+    "slug": "summer-olympics-2028",
+    "title": "Summer Olympics 2028",
+    "description": "Countdown to the 2028 Summer Olympics in Los Angeles. The world's greatest athletes compete!",
+    "startsAtUtc": "2028-07-21T00:00:00Z",
+    "category": "sports",
+    "tags": ["olympics", "sports", "los-angeles"],
+    "image": "/images/olympics-2028.jpg"
+  },
+  {
+    "id": "winter-solstice-2026",
+    "slug": "winter-solstice-2026",
+    "title": "Winter Solstice 2026",
+    "description": "Countdown to the shortest day of the year in the Northern Hemisphere.",
+    "startsAtUtc": "2026-12-21T18:00:00Z",
+    "category": "astronomy",
+    "tags": ["solstice", "winter", "astronomy"],
+    "image": "/images/winter-solstice.jpg"
+  },
+  {
+    "id": "new-years-eve-2026",
+    "slug": "new-years-eve-2026",
+    "title": "New Year's Eve 2026",
+    "description": "Countdown to New Year's Eve 2026. The final countdown to 2027!",
+    "startsAtUtc": "2026-12-31T00:00:00Z",
+    "category": "holiday",
+    "tags": ["new-years-eve", "celebration", "party"],
+    "image": "/images/new-years-eve.jpg"
+  },
+  {
+    "id": "leap-day-2028",
+    "slug": "leap-day-2028",
+    "title": "Leap Day 2028",
+    "description": "Countdown to Leap Day 2028. The rare February 29th only comes once every 4 years!",
+    "startsAtUtc": "2028-02-29T00:00:00Z",
+    "category": "special",
+    "tags": ["leap-day", "rare", "calendar"],
+    "image": "/images/leap-day.jpg"
+  },
+  {
+    "id": "international-coffee-day-2026",
+    "slug": "international-coffee-day-2026",
+    "title": "International Coffee Day 2026",
+    "description": "Countdown to International Coffee Day 2026. Celebrate your favorite brew!",
+    "startsAtUtc": "2026-10-01T00:00:00Z",
+    "category": "food",
+    "tags": ["coffee", "beverage", "celebration"],
+    "image": "/images/coffee-day.jpg"
+  },
+  {
+    "id": "talk-like-pirate-day-2026",
+    "slug": "talk-like-pirate-day-2026",
+    "title": "Talk Like a Pirate Day 2026",
+    "description": "Countdown to Talk Like a Pirate Day 2026. Arrr, matey!",
+    "startsAtUtc": "2026-09-19T00:00:00Z",
+    "category": "fun",
+    "tags": ["pirate", "fun", "humor"],
+    "image": "/images/pirate-day.jpg"
+  },
+  {
+    "id": "black-friday-2026",
+    "slug": "black-friday-2026",
+    "title": "Black Friday 2026",
+    "description": "Countdown to Black Friday 2026. The biggest shopping day of the year!",
+    "startsAtUtc": "2026-11-27T00:00:00Z",
+    "category": "shopping",
+    "tags": ["black-friday", "shopping", "deals"],
+    "image": "/images/black-friday.jpg"
   }
 ]
